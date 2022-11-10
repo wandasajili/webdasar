@@ -1,0 +1,85 @@
+body {
+  /* background-color:cornflowerblue; */
+  background-image:  url(../assets/image/history.jpg);
+}
+h1 {
+  color: wheat;
+  text-align: center;
+}
+p {
+  color: cyan;
+  text-align: justify;
+  font: size: 20px;
+}
+
+/* Selektor dengan nama tag */
+h2 {
+    color: blue
+}
+
+/* Selektor degnan class */
+.bg-yellow {
+    background-color: yellow;
+}
+
+/* selektor dengan ID elemen */
+#header {
+    background: grey;
+}
+
+/* Selektor dengan Atribut */
+input[type=text]{
+    background: blue;
+}
+input[type=email]{
+    background-color: blue;
+}
+
+h1:hover{
+  color: red;
+}
+
+.kotak{
+  width:100px;
+  height:100%;
+  background: blue;
+}
+ 
+.bg-red{
+  height: 300px;
+  width: 100%;
+  background-color:red;
+}
+.bg-yellow{
+  height: 200px;
+  width: 100%;
+  background-color: yellow;
+}
+.bg-black{
+  height: 50px;
+  width: 100%;
+  background-color: black;
+} 
+.bg-cyan{
+  height: 100px;
+  width: 50%;
+  background-color: cyan;
+}
+#content{
+  float: left;
+  width: 75%;
+
+}
+aside{
+  float: left;
+  width: 25%;
+}
+
+  
+
+
+
+
+
+
+

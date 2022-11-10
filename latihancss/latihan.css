@@ -1,0 +1,30 @@
+h1:hover {
+  color: red;
+}
+
+.kotak {
+  width: 100px;
+  height: 100%;
+  background: blue;
+}
+
+.bg-blue {
+  height: 100px;
+  width: 70%;
+  background-color: blue;
+}
+.bg-red {
+  height: 100px;
+  width: 30%;
+  background-color: red;
+}
+.bg-yellow {
+  height: 200px;
+  width: 100%;
+  background-color: yellow;
+}
+.bg-brown {
+  height: 200px;
+  width: 100%;
+  background-color: brown;
+}
